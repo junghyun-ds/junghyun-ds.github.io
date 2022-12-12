@@ -1,11 +1,7 @@
 ---
-title: "Wtest"
-author: "Tristan O'Malley"
-date: "2022-12-02"
-categories: [news]
+title: Quarto Computations
 jupyter: python3
 ---
-
 
 ## NumPy
 
