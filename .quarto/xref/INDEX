@@ -10,5 +10,8 @@
   },
   "about.qmd": {
     "about.html": "2826865d"
+  },
+  "posts/test-post/index.qmd": {
+    "index.html": "fac2ca29"
   }
 }

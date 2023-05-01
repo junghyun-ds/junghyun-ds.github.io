@@ -1,0 +1,8 @@
+---
+title: "Welcome To My Blog"
+author: "Tristan O'Malley"
+date: "2023-05-01"
+categories: [news]
+---
+
+그냥 index.qmd로 만들었을떄 테스트용
